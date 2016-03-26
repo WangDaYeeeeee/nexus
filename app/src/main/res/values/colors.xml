@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- default theme -->
+    <color name="colorPrimary">@color/green_main</color>
+    <color name="colorPrimaryDark">@color/green_dark</color>
+    <color name="colorAccent">@color/green_main</color>
+    
+    <!-- color theme -->
+    <color name="red_main">#ce3d3a</color>
+    <color name="red_dark">#bb3734</color>
+
+    <color name="pink_main">#e91e63</color>
+    <color name="pink_dark">#d81b60</color>
+
+    <color name="purple_main">#9c27b0</color>
+    <color name="purple_dark">#8e24aa</color>
+
+    <color name="deep_purple_main">#673ab7</color>
+    <color name="deep_purple_dark">#5e35b1</color>
+
+    <color name="indigo_main">#3f51b5</color>
+    <color name="indigo_dark">#3949ab</color>
+
+    <color name="blue_main">#2196f3</color>
+    <color name="blue_dark">#1e88e5</color>
+
+    <color name="light_blue_main">#03a9f4</color>
+    <color name="light_blue_dark">#039be5</color>
+
+    <color name="cyan_main">#00bcd4</color>
+    <color name="cyan_dark">#00acc1</color>
+
+    <color name="teal_main">#009688</color>
+    <color name="teal_dark">#00897b</color>
+
+    <color name="green_main">#4caf50</color>
+    <color name="green_dark">#43a047</color>
+
+    <color name="light_green_main">#8bc34a</color>
+    <color name="light_green_dark">#7cb342</color>
+
+    <color name="lime_main">#cddc39</color>
+    <color name="lime_dark">#c0ca33</color>
+
+    <color name="yellow_main">#ffeb3b</color>
+    <color name="yellow_dark">#fdd835</color>
+
+    <color name="amber_main">#ffc107</color>
+    <color name="amber_dark">#ffb300</color>
+
+    <color name="orange_main">#ff9800</color>
+    <color name="orange_dark">#fb8c00</color>
+
+    <color name="deep_orange_main">#ff5722</color>
+    <color name="deep_orange_dark">#f4511e</color>
+
+    <color name="brown_main">#795548</color>
+    <color name="brown_dark">#6d4c41</color>
+
+    <color name="grey_main">#9e9e9e</color>
+    <color name="grey_dark">#757575</color>
+
+    <color name="blue_grey_main">#607d8b</color>
+    <color name="blue_grey_dark">#546e7a</color>
+    
+</resources>
